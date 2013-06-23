@@ -5,3 +5,4 @@ class AddUserIdToStatuses < ActiveRecord::Migration
   	remove_column :statuses, :name
   end
 end
+==
